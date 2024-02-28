@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849804799292",
+    "project_id": "rapid-project-f247b",
+    "storage_bucket": "rapid-project-f247b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849804799292:android:56c1c55a7510be422a4239",
+        "android_client_info": {
+          "package_name": "com.example.client_footware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLReDJzeAwb2d1MlDPd80J3CpjvECcUCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
